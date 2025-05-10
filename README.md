@@ -34,7 +34,7 @@ These datasets are widely adopted in location science literature and serve as tr
 - **Lat.:** Latitudes 
 - **First Demand:** 1990 city population  
 - **Second Demand:** Number of households in the city (1990)  
-- **Fixed Cost:** 1990 median home value (used to represent facility fixed cost)
+- **Fixed Cost:** 1990 median home value
 - **City:** Cities are sorted by their 1990 population.  
  
 #### Data Source:
